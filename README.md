@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wasiqurzaman
 - 👀 I’m interested in learning new technologies.
-- 🌱 I’m currently learning Next.js and related frontend tools & technologies.
+- 🌱 I’m currently learning frontend tools & technologies.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me My email wasiqurzaman@gmail.com
 - 😄 Pronouns: He/Him
