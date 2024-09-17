@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning frontend tools & technologies.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me My email wasiqurzaman@gmail.com
-- 😄 Pronouns: He/Him
+
 <!---
 - ⚡ Fun fact: ...
 
